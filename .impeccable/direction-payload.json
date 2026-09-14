@@ -1,0 +1,66 @@
+{
+  "title": "Edna Dias Podologia — escolha o mundo visual",
+  "question": "O sorteio caiu em \"A Conversa\". Fique com ela, troque por uma alternativa, ou role de novo.",
+  "options": [
+    {
+      "id": "assigned",
+      "label": "A Conversa",
+      "kicker": "O SORTEIO",
+      "lineage": "A pergunta que a pessoa digitaria e a resposta de quem atende",
+      "thesis": "A página inteira é a conversa que o visitante já ia começar no WhatsApp — ele pergunta, a Edna responde.",
+      "palette": ["#0C3A31", "#17705C", "#A8D8C6", "#EDF3F0", "#E8A98E"],
+      "materials": ["verde de consultório saturado em campos inteiros", "branco frio de sala limpa", "tipografia grande em pergunta-e-resposta"],
+      "viewport": "Verde profundo ocupando a tela. Em branco e grande, a pergunta de quem chega: \"Minha unha encravou. Dá pra resolver?\". Logo abaixo, menor e em verde claro, a resposta assinada por Edna Dias — e o botão do WhatsApp como a continuação natural dessa mesma conversa.",
+      "risk": "Se as respostas soarem como texto de anúncio em vez de fala de gente, o conceito desmonta e vira só um FAQ pintado de verde.",
+      "board": "",
+      "hero": ""
+    },
+    {
+      "id": "challenger-tanaka",
+      "label": "Retrato em Planos",
+      "lineage": "Cartazes de Ikko Tanaka — figura remontada em planos chapados de cor",
+      "thesis": "O pé e a figura da Edna construídos com poucos planos chapados de verde, sem contorno, numa grade silenciosa.",
+      "case": "Funde bem: resolve a falta de fotos da Edna transformando ausência de imagem em linguagem gráfica própria. Risco real: sem as fotos, a página fica bonita mas impessoal — e a Edna precisa ser a protagonista.",
+      "palette": ["#0C3A31", "#17705C", "#E8A98E", "#EDF3F0"],
+      "materials": ["planos chapados sem contorno", "grade discreta", "grotesca mínima"],
+      "viewport": "Figura monumental montada em planos verdes ocupando a tela, legenda em voz baixa.",
+      "risk": "Vira museu: admirável de longe, frio para quem está com dor.",
+      "hero": "https://impeccable.style/worlds/cards/tanaka-plane-portrait-hero.webp"
+    },
+    {
+      "id": "challenger-kraftwerk",
+      "label": "Diagrama em Linha",
+      "lineage": "Identidade Kraftwerk — diagrama de linhas de neon sobre grade rígida",
+      "thesis": "Cada serviço vira um nó ligado por linhas finas sobre grade estrita.",
+      "case": "Funde mal: a paleta é vermelho-sinal sobre preto, que briga com o verde fixado no briefing, e linguagem de alerta rodoviário é o oposto do acolhimento que uma idosa com dor precisa sentir.",
+      "palette": ["#D8232A", "#F0B323", "#000000", "#FFFFFF"],
+      "materials": ["linhas de neon", "grade modular visível"],
+      "viewport": "Rede de conectores em neon sobre preto.",
+      "risk": "Lê como emergência, não como cuidado.",
+      "hero": "https://impeccable.style/worlds/cards/kraftwerk-man-machine-hero.webp"
+    },
+    {
+      "id": "challenger-nixie",
+      "label": "Contador Nixie",
+      "lineage": "Válvulas nixie — dígitos laranja brilhando dentro do vidro",
+      "thesis": "Os números do negócio viram a interface, cada métrica no seu tubo de vidro.",
+      "case": "Funde mal: o mundo é feito de quantidades e este negócio tem exatamente duas (nota 5,0 e 33 avaliações). Sem números para mostrar, sobra o vidro vazio.",
+      "palette": ["#FF7A18", "#141414", "#8A8A8A"],
+      "materials": ["vidro", "aço escurecido", "brilho de plasma"],
+      "viewport": "Bancos de tubos de vidro sobre chassi escuro.",
+      "risk": "Cenografia sem conteúdo para sustentar.",
+      "hero": "https://impeccable.style/worlds/cards/signals-instruments-nixie-laboratory-counter-hero.webp"
+    }
+  ],
+  "reroll": true,
+  "canon": true,
+  "canonCard": {
+    "label": "O padrão da categoria",
+    "thesis": "A landing page de clínica que todo mundo entrega — feita impecavelmente bem.",
+    "viewport": "Hero com foto, três cards de serviço iguais, depoimentos, FAQ, rodapé. Verde-menta claro, cantos arredondados, sombras suaves.",
+    "palette": ["#2F8F7B", "#A9D9CE", "#EFF8F5", "#FAFAF7"],
+    "materials": ["cards arredondados", "verde-menta", "sombras suaves"],
+    "risk": "Seguro e competente. Não fica na memória de ninguém."
+  },
+  "steer": true
+}
